@@ -1,0 +1,119 @@
+body {
+    background-color: #CC231E;
+    background-image: url(/Users/samkennedy/Desktop/project-2-mockup/user-dashboard/AdobeStock_180305094.jpeg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100vh;
+    /* height: 100px;
+    background-color: #D71516;
+    background-image:
+      radial-gradient(
+        #D71516,
+        #8F090A
+      );
+    
+    height: 100vh;
+    width: 100%; */
+  }
+
+
+
+h1 {
+    text-align: center;
+    padding-top: 13px;
+    font-size: 35px;
+    color: black;
+    -webkit-text-stroke: .5px rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 450px;
+    margin: auto;
+    background-color: rgb(226, 226, 226);
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    height: 70px;
+    
+}
+
+.parent-container {
+  display: flex;
+}
+
+.container {
+  display: flex;
+  width: 400px !important;
+  margin-right: 0px !important;
+  margin-left: 30px !important;
+  margin-top: 15px;
+  
+}
+
+.container-2 {
+  display: flex;
+  margin-left: 0px;
+  margin-top: 180px;
+  
+}
+
+.card {
+  width: 300px;
+  margin: 0 !important;
+  height: 600px;
+  opacity: 88%;
+}
+
+.form-control {
+  padding-left: 10px;
+  margin-left: 10px;
+  
+}
+
+.blockquote.mb-0 {
+  text-align: center;
+}
+
+h3 {
+  color: aliceblue;
+  margin-left: 60px;
+  margin-top: 30px !important;
+  height: 80px;
+  font-size: 20px;
+}
+
+.card.text-center {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  width: 500px;
+  align-items: center;
+  height: 200px;
+  opacity: 85%;
+  
+}
+
+.card-header {
+  font-size: 20px;
+  text-align: center;
+}
+
+.card-text {
+  padding-bottom: 50px;
+}
+
+.btn.btn-primary {
+  width: 200px;
+  background-color: #198754;
+}
+
+.card.w-75 {
+  text-align: center;
+  opacity: 95%;
+}
+
+.btn.btn-outline-secondary {
+  background-color: #198754;
+  color: whitesmoke;
+}
+
+.list-of-names {
+  height: 115px;
+}
